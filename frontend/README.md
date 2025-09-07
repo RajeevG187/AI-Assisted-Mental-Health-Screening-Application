@@ -9,7 +9,7 @@ Below is the complete directory structure:
 
 frontend/
 ├── node_modules/               # Installed dependencies
-├── public/                     # Public assets
+├── public/                     # Public
 ├── src/                        # Core source code
 │   ├── components/             # Reusable UI components
 │   │   ├── AddQuestionnaire.js
